@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bg-dark{
+    color: white;
+}
+.new-slider{
+    margin-top: 100px;
+}
+.img-style{
+    margin-left:250px;
+    height: 50px;
+}
+.nav-font{
+    font-size: 20px;
+}
+.img-size{
+    height: 600px;
+    width: 100%;
+}
+.font-color{
+    color: #000;
+}
+.section-posstion{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+.text-posstion{
+    margin-left: 30%;
+}
+.text-posstion-product{
+    margin-left: 35%;
+}
+.text-style{
+    text-align: justify;
+}
+.button-style{
+    margin-left: 150px;
+    width: 100px;
+
+}
+.progress-posstion{
+    margin-top: 100px;
+}
+.center{
+    margin-left: 70px;
+}
+.card-style{
+    margin-top: 100px;
+}
+.text-img-posstion{
+    font-size: 40px;
+    /* justify-content: center; */
+    /* margin-left: 30%; */
+}
+.btn-center{
+    margin-left: 45%;
+}
+.team-grid{
+    margin-top: 100px;
+}
